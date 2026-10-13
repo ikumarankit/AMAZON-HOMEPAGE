@@ -3,9 +3,9 @@
 This is a simple Amazon homepage clone built using HTML and CSS.
 
 ## Previews
-![Amazon Clone Preview](previews/Preview%20One.pngv)
-![Amazon Clone Preview](previews/Preview%20Two.pngv)
-![Amazon Clone Preview](previews/Preview%20Three.pngv)
+![Amazon Clone Preview](previews/Preview%20One.png)
+![Amazon Clone Preview](previews/Preview%20Two.png)
+![Amazon Clone Preview](previews/Preview%20Three.png)
 
 
 ## Features
